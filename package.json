@@ -1,0 +1,15 @@
+{
+  "name": "restaurant",
+  "version": "1.0.0",
+  "description": "landing page for restaurant",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/styles.css -w"
+  },
+  "author": "Pratyush",
+  "license": "ISC",
+  "devDependencies": {
+    "jquery": "^3.6.0",
+    "node-sass": "^6.0.0"
+  }
+}
